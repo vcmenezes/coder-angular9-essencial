@@ -16,9 +16,14 @@
       "price": 5000
     },
     {
-      "name": "Produto de Teste 2",
-      "price": 125.98,
+      "name": "Lillith Tran",
+      "price": "567",
       "id": 4
+    },
+    {
+      "name": "Steel Oneal",
+      "price": "85",
+      "id": 5
     }
   ]
 }
