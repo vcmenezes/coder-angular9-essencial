@@ -24,6 +24,11 @@
       "name": "Steel Oneal",
       "price": "85",
       "id": 5
+    },
+    {
+      "name": "Mufutau Marsh",
+      "price": "285",
+      "id": 6
     }
   ]
 }
